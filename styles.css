@@ -1,0 +1,19 @@
+.navbar-brand {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.picture {
+    height: 470px;
+    object-fit: cover;
+}
+
+.picture2 {
+    object-fit: cover;
+    width: 100%;
+}
+
+span {
+    font-size: medium;
+}
